@@ -32,5 +32,6 @@ Jonas Posner, HS Fulda, Germany \\
 Nathan Tallent, Pacific Northwest National Laboratory, USA \\
 Stepan Vanecek, Technical University Munich, Germany \\
 Ondřej Vysocký, IT4Innovations National Supercomputing Center, Czech Republic \\
+Josef Weidendorfer, TU Dresden, Germany\\
 Tobias Weinzierl, Durham University, United Kingdom \\
 Samuel Xavier-de-Souza, Universidade Federal do Rio Grande do Norte, Brazil
